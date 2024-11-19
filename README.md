@@ -17,7 +17,7 @@ An education company named X Education sells online courses to industry professi
 ## Details of files given
 - Lead Scoring Case Study_Syed Mohammad Bilal_Darshan JK_Harish Gandham.ipynb: The python file showing coding and data analysis
 - Assignment Subjective Questions - Lead Scoring Case Study_Syed Mohammad Bilal_Darshan JK_Harish Gandham.pdf: Some subjective questions answered
-- Lead Scoring Case Study_Syed Mohammad Bilal_Darshan JK_Harish Gandham.pdf: Final Presentation
+- Lead Scoring Case Study_Syed Mohammad Bilal_Darshan JK_Harish Gandham.pdf: Final Presentation in pdf form
 - Leads.csv: Data worked on
 - Leads Data Dictionary.xlsx: Data Dictionary
-- Lead Scoring Case Study_Syed Mohammad Bilal_Darshan JK_Harish Gandham.pdf: Summary on what's done in the entire python file
+- Executive Summary - Lead Scoring Case Study_Syed Mohammad Bilal_Darshan JK_Harish Gandham: Summary on what's done in the entire python file
